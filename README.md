@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Un po' di me
+## 👨‍💻 About Me
 
 - 🎓 Studio Informatica all'Università degli Studi di Salerno.
 - 🧠 Mi interessano programmazione, algoritmi, sistemi operativi e Linux.
