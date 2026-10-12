@@ -22,10 +22,10 @@
 
 ### [PdfCraft](https://github.com/storytold/pdfcraft)
 
-Sto contribuendo a PdfCraft, un lettore ed editor PDF open source scritto in Rust.  
-La mia pull request aggiunge la selezione del testo che continua tra pagine e ne copia il contenuto nell'ordine corretto.
+Sto contribuendo a PdfCraft, un lettore ed editor PDF open source scritto in Rust:
 
-[🔎 Pull request #1454](https://github.com/storytold/pdfcraft/pull/1454)
+- [PR #1454](https://github.com/storytold/pdfcraft/pull/1454): selezione del testo tra pagine e copia nell'ordine corretto.
+- [PR #1597](https://github.com/storytold/pdfcraft/pull/1597): il tool di disegno crea un punto anche con un singolo click.
 
 ---
 
